@@ -1,10 +1,9 @@
 import React from 'react'
-import Login from '../Components/Login'
-
+import Location from '../../Components/Location'
 
 const index = () => {
   return (
-    <Login/>
+    <Location />
   )
 }
 
